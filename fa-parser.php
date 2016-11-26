@@ -1,6 +1,4 @@
 <?php
-// .fa-remove:before,.fa-close:before,.fa-times:before{content:"\f00d"}
-
 require_once(__DIR__ . DIRECTORY_SEPARATOR . 'fa-config.php');
 
 $css = file_get_contents(FA_SRC_DIR . 'font-awesome.min.css');
